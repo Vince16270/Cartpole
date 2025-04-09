@@ -2,7 +2,7 @@ import gymnasium as gym
 from agent import QLearningAgent
 
 def main():
-    env = gym.make('CartPole-v1')
+    env = gym.make('CartPole-v1', render_mode='rgb_array')
     
     # Initialiseer de Q-learning agent met standaard hyperparameters
     agent = QLearningAgent(env)

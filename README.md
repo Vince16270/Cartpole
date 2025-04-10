@@ -6,9 +6,9 @@ Dit project bevat meerdere cartpole agents en video omgeving. Je kunt
 
 ### Inhoud
 
-- agents.py: Bevat twee agents:
-  - ConnectFourAgent: Rule-based agent die probeert te winnen, blokkeert de tegenstander, speelt het midden, of kiest willekeurig.
-  - RandomAgent: Een simpele agent die willekeurige geldige zetten doet.
+- agents.py: Bevat de agents:
+  - Agent 1: 
+  - Agent 2: 
 - main.py: Laat je een interactief spel spelen tegen de agent.
 - tests.py: Unit test voor de ConnectFourAgent.
 
